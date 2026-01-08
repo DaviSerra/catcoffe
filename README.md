@@ -37,5 +37,3 @@ Depois do design pronto, parti para o desenvolvimento:
 - **Tailwind CSS** para estilização
 - **Componentes reutilizáveis**
 - **Layout responsivo**
-
-A ideia foi manter o máximo possível do que foi desenhado no Figma.
