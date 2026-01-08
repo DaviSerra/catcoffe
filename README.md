@@ -1,4 +1,4 @@
-# Cat Coffee
+# CatCoffee
 
 > Projeto criado para unir design no Figma e desenvolvimento frontend, focando em identidade visual e organização
 
